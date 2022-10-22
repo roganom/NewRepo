@@ -40,7 +40,7 @@
             this.btnHello.Name = "btnHello";
             this.btnHello.Size = new System.Drawing.Size(156, 87);
             this.btnHello.TabIndex = 0;
-            this.btnHello.Text = "Olá";
+            this.btnHello.Text = "Olá Mundo";
             this.btnHello.UseVisualStyleBackColor = true;
             this.btnHello.Click += new System.EventHandler(this.button1_Click);
             // 
